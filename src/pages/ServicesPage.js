@@ -1,10 +1,10 @@
 import React from 'react';
 import { Layout } from '../components/commons/Layout';
 
-export const HomePage = ()=>{
+export const ServicesPage = ()=>{
     return(
         <Layout>
-            <div>HomePage</div>
+            <div>ServicesPage</div>
         </Layout>
     )
 }
