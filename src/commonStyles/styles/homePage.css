@@ -1,0 +1,11 @@
+.homePage .homePage-bg{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/src/commonStyles/images/homeImage.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content{
+    overflow: hidden;
+    background-color: #040F04;
+}
